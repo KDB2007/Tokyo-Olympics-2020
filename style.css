@@ -1,0 +1,42 @@
+.profile{
+    width:390px;
+    height:589px;
+    margin-left: 80px;
+}
+
+h1{
+    color: deepskyblue;
+    font-style: oblique;
+    text-align: center;
+    font-size: 50px;
+    padding:80px;
+}
+
+
+table{
+    margin-left: 250px;
+    font-family: sans-serif;
+    border-collapse: collapse;
+    width:70%;
+}
+
+.invis-box{
+    display: flex;
+    align-items: center;
+}
+
+.info{
+    font-size: 30px;
+    padding-left: 80px;
+}
+
+td,
+    th {
+      width: 5px;
+      margin-left: 250px;
+      border: BLACK 2px solid;
+      text-align: left;
+      padding: 8px;
+      font-size: 20px;
+      text-align: center;
+}
